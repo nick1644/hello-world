@@ -2,5 +2,5 @@
 prima prova angular
 
 Ciao
-Mi chiamo Nick e mi piace la Figa
+Mi chiamo Nick 
 Mi fiace anche tanto mangiare
